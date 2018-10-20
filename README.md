@@ -9,3 +9,4 @@ Contains links to School of AI city-wise repositories across the globe
 
 [Solapur School of AI](https://github.com/SchoolOfAIMaharashtra)
 
+[Harare School of AI](https://github.com/harareschoolofai)
